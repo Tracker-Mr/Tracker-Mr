@@ -140,10 +140,10 @@ def line():
 
 #-------------------// APPROVAL \\---------------------#
 import os,httpx
-sexkey = "Xy~("+str(os.getuid())+"=(69)="+str(os.getuid())+")~GULLA"
+sexkey = "Xy~("+str(os.getuid())+"=(69)="+str(os.getuid())+")~XWD"
 def approval():
-    sexkey = "Xy~("+str(os.getuid())+"=(69)="+str(os.getuid())+")~GULLA"
-    ress=httpx.get("https://github.com/ANUPv1/Approval-/blob/main/REEJAN").text
+   XWDkey = "Xy~("+str(os.getuid())+"=(69)="+str(os.getuid())+")~XWD"
+    ress=httpx.get("https://github.com/Tracker-Mr/Tracker-Mr.git").text
     if sexkey in ress:
         menu()
     else:
@@ -155,7 +155,7 @@ def approval():
         input(f'\x1b[38;5;244m(\x1b[1;97m✘\x1b[38;5;244m)\x1b[38;5;46m PRESS ENTER TO SEND KEY ADMIN > ')
         time.sleep(2)
         tks = sexkey
-        os.system('xdg-open https://wa.me/+9779826917488') 
+        os.system('xdg-open https://wa.me/+9779824175236') 
 #__________________| LOGO |__________________#
 logo=(f"""
                                             
